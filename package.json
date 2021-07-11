@@ -1,0 +1,19 @@
+{
+  "name": "excavator-game",
+  "version": "0.0.0",
+  "description": "A simple game that allows the user to move heavy equipment around the screen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cofad/excavator-game.git"
+  },
+  "author": "Will Warner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cofad/excavator-game/issues"
+  },
+  "homepage": "https://github.com/cofad/excavator-game#readme"
+}
