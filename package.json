@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/cofad/excavator-game#readme",
   "devDependencies": {
+    "@commitlint/cli": "^12.1.4",
+    "@commitlint/config-angular": "^12.1.4",
     "typescript": "^4.3.5"
   }
 }
