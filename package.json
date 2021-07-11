@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/cofad/excavator-game/issues"
   },
-  "homepage": "https://github.com/cofad/excavator-game#readme"
+  "homepage": "https://github.com/cofad/excavator-game#readme",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
 }
