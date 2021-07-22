@@ -14,6 +14,10 @@ module.exports = {
         use: 'ts-loader',
         exclude: /node_modules/,
       },
+      {
+        test: /\.(png|svg|jpg|jpeg|gif)$/i,
+        type: 'asset/resource',
+      }
     ],
   },
   resolve: {
@@ -29,6 +33,7 @@ module.exports = {
       patterns: [
         { from: "src/index.html", to: "index.html" },
         { from: "src/index.css", to: "index.css" },
+        { from: "src/assets", to: "assets" },
       ],
     }),
   ],
